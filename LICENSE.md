@@ -1,4 +1,4 @@
-# 
+# 原生 AI Fake News Detector 工具。集成 神经网络 和 语音识别，性能最大化。
 
 
 
